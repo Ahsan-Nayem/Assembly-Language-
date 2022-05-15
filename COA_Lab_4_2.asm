@@ -1,0 +1,7 @@
+
+ID1 DW 1941h
+
+ID2 DW 1912h 
+
+
+MOV BX,ID2   
